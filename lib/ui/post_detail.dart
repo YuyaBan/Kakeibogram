@@ -87,7 +87,6 @@ Widget _area1(User user, BuildContext context) {
         Container(
           margin: EdgeInsets.fromLTRB(5,5,2,5),
           child: Text(
-            //"hironaka",
             user.name,
             style: TextStyle(fontSize: 19),
           ),
@@ -281,7 +280,7 @@ class User {
 }
 
 const List<User> users = const <User>[
-  const User(name: 'ひろなか', point: 8000, rank: 1, id: 'mhironak'),
+  const User(name: 'sato', point: 8000, rank: 1, id: 'mhsato'),
   const User(name: 'hiro', point: 7800, rank: 2, id: 'hiropon'),
   const User(name: 'matsu', point: 6400, rank:3, id: 'matsu0322'),
   const User(name: 'sato', point: 6100, rank:4, id: 'sato0910'),

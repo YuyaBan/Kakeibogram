@@ -70,7 +70,7 @@ class Choice {
 }
 
 const List<Choice> choices = const <Choice>[
-  const Choice(title: 'フォロー中', text: 'ひろなか', point: 2000, rank: 1),
+  const Choice(title: 'フォロー中', text: 'sato'', point: 2000, rank: 1),
   const Choice(title: 'ALL', text: 'hiro', point: 1800, rank: 2),
   const Choice(title: 'Pick Up', text: 'matsu', point: 1400, rank:3),
 ];

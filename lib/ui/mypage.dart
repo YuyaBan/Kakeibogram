@@ -526,7 +526,7 @@ class User {
 }
 
 const List<User> users = const <User>[
-  const User(title: 'フォロー中', name: 'ひろなか', point: 8000, rank: 1, id: 'mhironak'),
+  const User(title: 'フォロー中', name: 'sato', point: 8000, rank: 1, id: 'mhsato'),
   const User(title: 'ALL', name: 'hiro', point: 7800, rank: 2, id: 'hiropon'),
   const User(title: 'Pick Up', name: 'matsu', point: 6400, rank:3, id: 'matsu0322'),
   const User(title: 'Pick Up', name: 'sato', point: 6100, rank:4, id: 'sato0910'),
